@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">fragments</string>
+    <string name="gengar">Gengar</string>
+    <string name="charizard">Charizard</string>
+    <string name="fragment_gengar">Gengar Fragment</string>
+    <string name="charizard_fragment">Charizard Fragment</string>
+    <string name="title">PókeFragments</string>
+</resources>
